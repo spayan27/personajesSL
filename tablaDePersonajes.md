@@ -12,7 +12,7 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Patrick Volderding| | |
 | Theo de Raadt | | |
 | Alan Cox| | |
-| Guido Van Rossum | | |
-| Miguel de Icaza| | |
+| Guido Van Rossum |Javier Garza | |
+| Miguel de Icaza| Javier Garza| |
 | Lennart Poettering | | |
 
