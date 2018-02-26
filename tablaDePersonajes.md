@@ -8,8 +8,8 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Bob Young      |  |  |
 | Eric Raymond     |       |    |
 | Mark Shuttleworth |       |     |
-| Ian Murdock | | |
-| Patrick Volderding| | |
+| Ian Murdock |Sergio Payan | |
+| Patrick Volderding|Sergio Payan | |
 | Theo de Raadt | | |
 | Alan Cox| | |
 | Guido Van Rossum |Javier Garza | |
