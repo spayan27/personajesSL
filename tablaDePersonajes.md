@@ -9,9 +9,9 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Eric Raymond     |       |    |
 | Mark Shuttleworth |       |     |
 | Ian Murdock | | |
-| Patrick Volderding|Mario Sigala | |
+| Patrick Volderding|Mario Sigala | https://github.com/sigalam/personajesSL/blob/master/Patrick%20Volderding.html|
 | Theo de Raadt | | |
-| Alan Cox|MArio Sigala| |
+| Alan Cox|MArio Sigala| https://github.com/sigalam/personajesSL/blob/master/Alan%20Cox.html|
 | Guido Van Rossum | | |
 | Miguel de Icaza| | |
 | Lennart Poettering | | |
