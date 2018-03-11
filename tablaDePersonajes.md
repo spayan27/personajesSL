@@ -5,8 +5,8 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 
 | Personaje        | Alumno           | Liga al trabajo terminado  |
 | ------------- |:-------------:| -----:|
-| Bob Young      |  |  |
-| Eric Raymond     |       |    |
+| Bob Young      |  Sergio Payan  |  |
+| Eric Raymond     | Sergio Payan |    |
 | Mark Shuttleworth |       |     |
 | Ian Murdock | | |
 | Patrick Volderding|Mario Sigala | https://github.com/sigalam/personajesSL/blob/master/Patrick%20Volderding.html|
